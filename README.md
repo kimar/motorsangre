@@ -1,6 +1,8 @@
 # Motor Sangre Wordpress Theme
 ## http://www.motorsangre.com
 
+![Screenshot](/screenshot.png)
+
 Modified to suit the Blog's needs.
 
 The Motor Sangre Wordpress them is based off:

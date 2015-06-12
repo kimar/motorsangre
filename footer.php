@@ -31,7 +31,7 @@
 				<?php shrake_social_navigation(); ?>
 
 				<div class="credits">
-					<?php shrake_credits(); ?>
+					&copy; <?php echo date('Y'); ?> by Motor Sangre
 				</div>
 			</div>
 		</footer>
